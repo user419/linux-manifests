@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="rock64-linux"
+  <remote  name="ayufan"
            fetch="."
-           review="https://github.com/rock64-linux/" />
+           review="https://github.com/ayufan-rock64/" />
   <default revision="master"
-           remote="rock64-linux"
+           remote="ayufan"
            sync-j="4" />
 
   <project path="kernel" name="kernel" revision="release-4.4-3328"/>
   <project path="u-boot" name="u-boot" revision="release"/>
-  <project path="rootfs" name="rk-rootfs-build" />
+  <project path="rootfs" name="linux-root" />
   <project path="rkbin" name="rkbin" />
 
-  <project path="build" name="build" revision="debian">
+  <project path="build" name="linux-build-scripts" revision="debian">
 	  <copyfile dest="README.md" src="README.md"/>
   </project>
   
