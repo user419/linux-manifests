@@ -14,6 +14,7 @@
   <project path="u-boot" name="u-boot" revision="release"/>
   <project path="rkbin" name="rkbin" />
   <project path="package/rtk_bt" name="NextThingCo/rtl8723ds_bt" remote="github" revision="master" />
+  <project path="rk-rootfs" name="rock64-linux/rk-rootfs-build" remote="github" revision="master" />
 
   <project path="build" name="linux-build-scripts" revision="debian">
 	  <copyfile dest="README.md" src="README.md"/>
