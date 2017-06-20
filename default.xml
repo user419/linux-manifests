@@ -13,8 +13,6 @@
   <project path="kernel" name="kernel" revision="release-4.4"/>
   <project path="u-boot" name="u-boot" revision="release"/>
   <project path="rkbin" name="rkbin" />
-  <project path="package/rtk_bt" name="NextThingCo/rtl8723ds_bt" remote="github" revision="master" />
-  <project path="rk-rootfs" name="rk-rootfs-build" revision="master" />
 
   <project path="build" name="linux-build-scripts" revision="debian" />
   
