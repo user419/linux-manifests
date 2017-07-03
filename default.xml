@@ -13,7 +13,5 @@
   <project path="kernel" name="linux-kernel" revision="release-4.4"/>
   <project path="u-boot" name="linux-u-boot" revision="release"/>
   <project path="rkbin" name="rkbin" />
-
-  <project path="build" name="linux-build-scripts" revision="debian" />
   
 </manifest>
