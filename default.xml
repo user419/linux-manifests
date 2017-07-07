@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="ayufan"
+  <remote  name="pfeerick"
            fetch="."
            review="https://github.com/pfeerick-rock64/" />
   <remote  name="github"
