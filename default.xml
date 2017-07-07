@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch="https://github.com/" />
   <default revision="master"
-           remote="ayufan"
+           remote="pfeerick"
            sync-j="4" />
 
   <project path="kernel" name="linux-kernel" revision="release-4.4"/>
