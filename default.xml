@@ -3,7 +3,7 @@
 
   <remote  name="ayufan"
            fetch="."
-           review="https://github.com/ayufan-rock64/" />
+           review="https://github.com/pfeerick-rock64/" />
   <remote  name="github"
            fetch="https://github.com/" />
   <default revision="master"
